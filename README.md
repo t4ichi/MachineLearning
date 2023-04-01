@@ -8,7 +8,7 @@
 50000回学習させた結果、正答率は95.53%でした✨
 ![Result](https://user-images.githubusercontent.com/67674781/226421764-f3f9401d-3462-4843-8c21-66fddb806f13.png)
 
-## 自分で自分で書いた文字が認識するか試してみる
+## 自分で書いた文字が認識するか試してみる
 稀に1を書いても5になることがあったが、だいたい正解してる
 ![detect](https://user-images.githubusercontent.com/67674781/226564686-c39ed954-02a7-44c6-a517-80529d5e5fa8.gif)
 
